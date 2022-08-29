@@ -35,7 +35,7 @@ And Also Thnakyou iNeuron For Give Us Such Like Opportunity.
 ## Live Link
 
 Live Link Netify
-https://rode-clone-using-tailwindcss.netlify.app/
+https://rode-clone-tailwindcss-netify.netlify.app/
 
 
 ## Features
